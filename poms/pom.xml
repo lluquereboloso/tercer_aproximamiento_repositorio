@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/pirmer_commity_0.1</module>
+    <module>jobs/process/job_lecturadb2_0.1</module>
   </modules>
   <properties>
     <talend.project.name>GIT_PRUEBAS</talend.project.name>
